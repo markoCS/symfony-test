@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project/templates/articles/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project/templates/inc/navbar.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_project/src/Controller/ArticleController.php" afterPath="$PROJECT_DIR$/my_project/src/Controller/ArticleController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_project/templates/base.html.twig" afterPath="$PROJECT_DIR$/my_project/templates/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_project/config/routes.yaml" afterPath="$PROJECT_DIR$/my_project/config/routes.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_project/templates/articles/index.html.twig" afterPath="$PROJECT_DIR$/my_project/templates/articles/index.html.twig" />
     </list>
     <ignored path="symfony-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543418309316" ignored="false" />
-    <file path="/ArticleController.php" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543420100532" ignored="false" />
+    <file path="/ArticleController.php" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421309297" ignored="false" />
     <file path="/routes.yaml" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543419054532" ignored="false" />
-    <file path="/index.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543420230094" ignored="false" />
+    <file path="/index.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421398027" ignored="false" />
     <file path="/base.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421146747" ignored="false" />
     <file path="/navbar.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421190226" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,43 +40,18 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_project/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="-3.125">
-              <folding />
+            <state line="16" column="79" selection-start="526" selection-end="526" vertical-scroll-proportion="-10.0">
+              <folding>
+                <element signature="e#33#79#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_project/templates/articles/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_project/templates/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="42" selection-start="405" selection-end="405" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.html.twig" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my_project/templates/inc/navbar.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="111" selection-end="111" vertical-scroll-proportion="0.035252646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.yaml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_project/config/routes.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+            <state line="5" column="26" selection-start="129" selection-end="129" vertical-scroll-proportion="0.08813161">
               <folding />
             </state>
           </provider>
@@ -107,10 +77,10 @@
       <list>
         <option value="$PROJECT_DIR$/my_project/public/.htaccess" />
         <option value="$PROJECT_DIR$/my_project/config/routes.yaml" />
-        <option value="$PROJECT_DIR$/my_project/src/Controller/ArticleController.php" />
-        <option value="$PROJECT_DIR$/my_project/templates/articles/index.html.twig" />
         <option value="$PROJECT_DIR$/my_project/templates/base.html.twig" />
         <option value="$PROJECT_DIR$/my_project/templates/inc/navbar.html.twig" />
+        <option value="$PROJECT_DIR$/my_project/src/Controller/ArticleController.php" />
+        <option value="$PROJECT_DIR$/my_project/templates/articles/index.html.twig" />
       </list>
     </option>
   </component>
@@ -470,23 +440,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_project/src/Controller/ArticleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_project/config/routes.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_project/templates/articles/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
@@ -501,6 +457,22 @@
     <entry file="file://$PROJECT_DIR$/my_project/templates/inc/navbar.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="18" selection-start="111" selection-end="111" vertical-scroll-proportion="0.035252646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_project/src/Controller/ArticleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="79" selection-start="526" selection-end="526" vertical-scroll-proportion="-10.0">
+          <folding>
+            <element signature="e#33#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_project/templates/articles/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="129" selection-end="129" vertical-scroll-proportion="0.08813161">
           <folding />
         </state>
       </provider>
