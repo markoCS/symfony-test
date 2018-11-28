@@ -1,2 +1,7 @@
 {
+    "require": {
+        "doctrine/annotations": "^1.6",
+        "doctrine/common": "^2.10",
+        "twig/twig": "^2.5"
+    }
 }
