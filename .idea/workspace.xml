@@ -8,9 +8,9 @@
     <ignored path="symfony-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543418309316" ignored="false" />
-    <file path="/ArticleController.php" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421309297" ignored="false" />
+    <file path="/ArticleController.php" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421792157" ignored="false" />
     <file path="/routes.yaml" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543419054532" ignored="false" />
-    <file path="/index.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421398027" ignored="false" />
+    <file path="/index.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421980435" ignored="false" />
     <file path="/base.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421146747" ignored="false" />
     <file path="/navbar.html.twig" changelist="ddcebd9f-41ff-4ec1-afdb-e2ce62950b0e" time="1543421190226" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_project/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="79" selection-start="526" selection-end="526" vertical-scroll-proportion="-10.0">
+            <state line="18" column="72" selection-start="568" selection-end="568" vertical-scroll-proportion="-11.25">
               <folding>
                 <element signature="e#33#79#0" expanded="true" />
               </folding>
@@ -51,7 +51,7 @@
       <file leaf-file-name="index.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_project/templates/articles/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="129" selection-end="129" vertical-scroll-proportion="0.08813161">
+            <state line="17" column="74" selection-start="493" selection-end="493" vertical-scroll-proportion="0.29964748">
               <folding />
             </state>
           </provider>
@@ -463,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_project/src/Controller/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="79" selection-start="526" selection-end="526" vertical-scroll-proportion="-10.0">
+        <state line="18" column="72" selection-start="568" selection-end="568" vertical-scroll-proportion="-11.25">
           <folding>
             <element signature="e#33#79#0" expanded="true" />
           </folding>
@@ -472,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_project/templates/articles/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="129" selection-end="129" vertical-scroll-proportion="0.08813161">
+        <state line="17" column="74" selection-start="493" selection-end="493" vertical-scroll-proportion="0.29964748">
           <folding />
         </state>
       </provider>
